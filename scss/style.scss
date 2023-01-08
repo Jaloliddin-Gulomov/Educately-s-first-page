@@ -1,0 +1,14 @@
+@import "header";
+@import "main";
+@import "footer";
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1920px;
+    margin: 0px auto;
+}
+
+
